@@ -15,4 +15,5 @@ I'm from Vietnam, and I do content on Design and Development. I really enjoy lea
 
 ![](https://komarev.com/ghpvc/?username=PRID021)
 
-<img src="https://raw.githubusercontent.com/PRID021/PRID021/main/Octocat.jpg" width="40 height="40>
+  <img align="center" width="340" src="https://raw.githubusercontent.com/PRID021/PRID021/main/Octocat.jpg"></img>
+
