@@ -15,6 +15,4 @@ I'm from Vietnam, and I do content on Design and Development. I really enjoy lea
 
 ![](https://komarev.com/ghpvc/?username=PRID021)
 
-
-  
-[<image href="./github.svg" x="15" y="20" width="70" height="70" />](https://github.com/PRID021)
+<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
