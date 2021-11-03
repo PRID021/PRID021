@@ -2,7 +2,7 @@
 #### I'm student with major in software engineering
 
 <p align ="left">
-  ![I'm student with major in software engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+    <img align="center" width="475" src=" https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png"></img>
 </p>
 I'm from Vietnam, and I do content on Design and Development. I really enjoy learning languages and frameworks like Dart and Flutter. I also enjoy wireframing, UI/U, and design in general.
 
