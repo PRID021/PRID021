@@ -10,7 +10,7 @@ I'm from Vietnam, and I do content on Design and Development. I really enjoy lea
 ## Github Statistics
 <p align="left">
   <img align="center" width="475" src="https://github-readme-stats.vercel.app/api?username=PRID021&show_icons=true&count_private=true&theme=graywhite"></img>
-  <img align="center" width="475" src="https://raw.githubusercontent.com/PRID021/my-stats/master/generated/languages.svg"></img>
+  <img align="center" width="400" src="https://raw.githubusercontent.com/PRID021/my-stats/master/generated/languages.svg"></img>
 </p>
 
 
