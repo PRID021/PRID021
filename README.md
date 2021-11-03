@@ -1,6 +1,9 @@
 ### Hi there 👋, My name is DucHoang
 #### I'm student with major in software engineering
-![I'm student with major in software engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+<p align ="left">
+  ![I'm student with major in software engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+</p>
 I'm from Vietnam, and I do content on Design and Development. I really enjoy learning languages and frameworks like Dart and Flutter. I also enjoy wireframing, UI/U, and design in general.
 
 Skills: C#/ Dart/ .NET/ Flutter
