@@ -16,5 +16,5 @@ I'm from Vietnam, and I do content on Design and Development. I really enjoy lea
 ![](https://komarev.com/ghpvc/?username=PRID021)
 
 ## Contact
-[<img align="center" width="40" height ="40" src="https://raw.githubusercontent.com/PRID021/PRID021/354d78beda572416807c35b1244d17d1b14c4394/github.svg"></img>](https://github.com/PRID021)
+[<img align="center" width="50" height ="50" src="https://raw.githubusercontent.com/PRID021/PRID021/354d78beda572416807c35b1244d17d1b14c4394/github.svg"></img>](https://github.com/PRID021) [<img align="center" width="50" height ="50" src="https://raw.githubusercontent.com/PRID021/icons/ad24b6f160876dc9c23b6a9edd2a1aab04a6fe39/icons/facebook.svg"></img>](https://www.facebook.com/JameBorn.N0)
 
