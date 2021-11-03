@@ -15,4 +15,4 @@ I'm from Vietnam, and I do content on Design and Development. I really enjoy lea
 
 ![](https://komarev.com/ghpvc/?username=PRID021)
 
-<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
+[img src="https://github.com/PRID021/PRID021/blob/main/Octocat.jpg?raw=true" alt="Lamp" width="40 height="40>](https://github.com/PRID021)
