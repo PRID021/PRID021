@@ -1,5 +1,3 @@
-## Hi there 👋, My name is DucHoang.
-I'm student with major in software engineering, do content on Design and Development, really enjoy learning new techincal like Flutter. I also enjoy wireframing, UI/UX, and design in general. Currently, I'm focusing on Dart (Flutter), since I really enjoy building mobile app.
 
 ## Skills and Experience
 * ❄️ C#/Python/Dart/Java/JavaScript.
